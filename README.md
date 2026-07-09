@@ -2,7 +2,7 @@
 
 Your trusted resource for AI Meeting Assistants, AI Meeting Notes, Meeting Intelligence, and Transcription Software.
 
-MeetingNotesAI helps professionals, teams, consultants, recruiters, sales organizations, and business leaders discover the best AI meeting tools available today. Our mission is simple: help you find the right solution to capture conversations, automate notes, improve productivity, and turn meetings into actionable insights.
+[MeetingNotesAI](https://meetingnotesai.org/) helps professionals, teams, consultants, recruiters, sales organizations, and business leaders discover the best AI meeting tools available today. Our mission is simple: help you find the right solution to capture conversations, automate notes, improve productivity, and turn meetings into actionable insights.
 
 Whether you're researching AI meeting assistants, comparing leading platforms, or looking for practical implementation advice, you'll find unbiased reviews, comparisons, tutorials, and buying guides throughout the site.
 
