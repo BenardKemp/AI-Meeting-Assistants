@@ -12,7 +12,7 @@ Whether you're researching AI meeting assistants, comparing leading platforms, o
 
 Start here if you're new to the world of AI meeting assistants.
 
-* What Are AI Meeting Notes?
+* [What Are AI Meeting Notes? A Beginner’s Guide to Smarter Meetings](https://meetingnotesai.org/2026/07/09/what-are-ai-meeting-notes-a-beginners-guide-to-smarter-meetings/)
 * How AI Meeting Notes Work
 * Benefits of AI Meeting Notes
 * Are AI Meeting Notes Accurate?
